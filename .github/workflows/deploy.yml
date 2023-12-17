@@ -15,5 +15,5 @@ jobs:
         server: lucfra7.100webspace.net
         username: lucfran7@lucfra7.100webspace.net
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ./public
+        local-dir: ./public/
         server-dir: lucfra7.100webspace.net/
